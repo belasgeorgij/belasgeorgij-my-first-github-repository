@@ -1,2 +1,2 @@
 # belasgeorgij-my-first-github-repository
-Some local changes
+Added some remote and local changes
